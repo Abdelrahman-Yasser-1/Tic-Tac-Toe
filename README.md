@@ -1,6 +1,6 @@
 # Offline Tic Tac Toe Android App
 
-Try in live demo: [**Tic Tac Toe**](https://appetize.io/embed/5wxuojfenl6vciabst4ku6iaiu)
+Try in live demo: [**Tic Tac Toe**](https://appetize.io/app/5wxuojfenl6vciabst4ku6iaiu?device=pixel4&osVersion=11.0&scale=75)
 
 ###### You may notice a lag while using application, but that is because of the emulator.
 
